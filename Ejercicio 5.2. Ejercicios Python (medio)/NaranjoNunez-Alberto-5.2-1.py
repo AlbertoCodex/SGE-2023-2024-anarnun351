@@ -81,6 +81,7 @@ def commentMultipleLine():
     print("---------------------------------------------------------------------")
 
 def main():
+    print("1. Prepara con un ejemplo donde explicas cómo hacer en Python 3:")
     cloneList()
     addList()
     deleteList()

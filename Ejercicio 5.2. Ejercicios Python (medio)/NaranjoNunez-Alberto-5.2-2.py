@@ -1,6 +1,5 @@
 # 2A Explica con ejemplos cómo funcionan los operadores "is", "not", "in" en Python 3
 def operatorsExample():
-    print('2 - Explica con ejemplos cómo funcionan los operadores "is", "not", "in" en Python 3')
     # Operator 'is'
     x = [1,2]
     y = x
@@ -25,6 +24,7 @@ def operatorsExample():
     print(7 in x)
 
 def main():
+    print('2 - Explica con ejemplos cómo funcionan los operadores "is", "not", "in" en Python 3')
     operatorsExample()
 
 if __name__ == '__main__':
